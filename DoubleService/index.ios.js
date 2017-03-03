@@ -51,3 +51,4 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('DoubleService', () => DoubleService);
+aaaaa
