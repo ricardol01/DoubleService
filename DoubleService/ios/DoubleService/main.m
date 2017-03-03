@@ -16,6 +16,4 @@ int main(int argc, char * argv[]) {
     return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
   }
 }
-111111
-222222
-333333
+123456
