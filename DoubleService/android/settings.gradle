@@ -1,0 +1,3 @@
+rootProject.name = 'DoubleService'
+
+include ':app'
